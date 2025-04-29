@@ -1,8 +1,5 @@
 ## Hey Everyone 👋, I'm Wong Japan, a Freelance Solidity Blockchain Developer
 
-<a href="mailto:kulomilyarder@gmail.com">
-  <img align="left" alt="Wong Japan Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 <a href="https://github.com/wongjapan">
   <img align="left" alt="Wong Japan Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
